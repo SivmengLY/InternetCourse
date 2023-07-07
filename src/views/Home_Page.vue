@@ -13,8 +13,8 @@
     </nav>
     
   </header>
-  <!-- <div> -->
-    <!-- <div class="intro">
+   <div>
+     <div class="intro">
       <h1>Book store.</h1>
       <p>BEST DSSTINATION AROUND THE WORLD.</p>
       <button>Call to action</button>
@@ -148,20 +148,20 @@
         <router-link to ="/page4">Page 4  |</router-link>
         <router-link to ="/page5">Page 5  |</router-link>
         <router-link to ="/page6">Page 6  |</router-link> 
-      </div> -->
-    <!-- </div>
-  </footer> -->
+      </div> 
+     </div>
+  </footer> 
         <div class="homepage">
-        <!-- <h1>HomePage</h1>
-        <img src="../img/Page1.PNG" alt=""><br> -->     
+         <h1>HomePage</h1>
+        <img src="../img/Page1.PNG" alt=""><br>     
         </div>
 </template>
 
-  <!-- <meta charset="UTF-8">
+  <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Simple HTML HomePage</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> 
   <style>
     /* @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap'); */
 
